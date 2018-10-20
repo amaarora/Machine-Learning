@@ -1,3 +1,5 @@
+EXPERIENCE of working with Imbalance Datasets, Multi-Class Datasets. (PastProjects)
+
 I read articles on Dataquest, TowardsDataScience, Kaggle(Tutorial), KDNuggets.. on a daily and try to learn new concepts every day. 
 
 Current Project that I am working on:
