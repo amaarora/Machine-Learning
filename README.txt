@@ -1,19 +1,39 @@
-EXPERIENCE of working with Imbalance Datasets, Multi-Class Datasets. (PastProjects)
+HERE’s WHAT MY NEXT 3 MONTHS LOOK LIKE:
 
-I read articles on Dataquest, TowardsDataScience, Kaggle(Tutorial), KDNuggets.. on a daily basis and try to learn 
-new concepts every day. 
+DEEP LEARNING:
+Read “Deep Learning by Ian Goodfellow” - An MIT Pressbook which can be found at http://www.deeplearningbook.org/
 
-Current Project that I am working on:
+BIG DATA: (Google Analytics)
+Data Scientist track at https://cloud.google.com/training/data-ml
+
+Step-1: “Google Cloud Platform Big Data and Machine Learning Fundamentals”
+Step-2: “Machine Learning with Tensorflow on Google Platform Specialisation”
+Step-3: “Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialisation”
+
+MACHINE LEARNING:
+Read “Introduction to Machine Learning with Python” available at https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413
+
+PYTHON:
+“Introduction to Computation and Programming using Python” an MIT Pressbook by John V Guttag available at https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-second-edition
+
+HERE’s WHAT MY PAST 3 MONTHS LOOK LIKE:
+PAST PROJECTS:
+- Imbalance Datasets - “Predicting Congenital Disorder” available at https://github.com/arora-aman123/Data_Science_Projects/tree/master/02.Predicting%20Rare%20Desease
+- Multi-Class Classification - “Predicting Employee Satisfaction using Government Data Set” available at https://github.com/arora-aman123/Data_Science_Projects/tree/master/03.Predicting%20Employee%20Satisfaction%20using%20GOV%20data
+
+I used to read articles on Dataquest, TowardsDataScience, Kaggle(Tutorial), KDNuggets.. on a daily basis and try to learn new concepts every day. 
+Now I am taking up Deep Learning, Big Data, Machine Learning and Python courses online after completing “Introduction to Data Science” from General Assembly.  
+
+PRACTICAL PROJECT: (In Progress)
 ‘MultiClass Classification’ - Predicting Employee Satisfaction using Government DataSet
 
+PRACTICAL PROJECT: (Coming Soon) 
+https://www.kaggle.com/c/home-credit-default-risk
 
-I have read and completed ‘Introduction to Statistical Learning’.
+BOOKS:
+- Introduction to Statistical Learning 
 
-Next on my List:
-1. Introduction to Machine Learning with Python (In Progress) 
-2. Elements of Statistical Learning (Next)
-
-My knowledge base so far(needs more building on top): 
+My MEAGRE KNOWLEDGE BASE so far: 
 1. Linear Regression
 2. Logical Regression
 3. Linear Discriminant Analysis 
@@ -34,19 +54,13 @@ My knowledge base so far(needs more building on top):
 18. Smoothing Splines 
 19. Decision Tree Regressor 
 20. Model Stacking 
+21. OnoVsOne 
+22. OneVsRest
+23. Multi Class Evaluation Metrics 
 
-*I have keen interest in understanding the Mathematics behind the models 
-*My favourite lecture "https://www.youtube.com/watch?v=_PwhiWxHK8o&t=2645s" on Support Vector Machines 
-*Data Science really excites me (not because it is the sexiest job of the century)
+* I have keen interest in understanding the Mathematics behind the models 
+* My favourite lecture "https://www.youtube.com/watch?v=_PwhiWxHK8o&t=2645s" on Support Vector Machines 
+* Data Science really excites me (not just because it is the sexiest job of the century)
 
-What I do not know well and are on my list of things to Learn in immediate future: 
-1. Neural Nets
-2. Deep Learning 
-3. Working on Big Data using Spark, HIVE, Hadoop (depending on Requirement
-4. Application of all concepts that I know in Theory using Python (I need to skill up in Python) 
-5. Conveying stories using Tableau
-6. "R" for statistical models: some models are easier to implement in R as compared to Python Sklearn
-7. Read "CLEAN CODE" book 
-
-I have little knowledge of GIT/GITHUB. I have not worked in a team environment before and am not aware of 
-how to solve conflicts or related issues when working in a team
+LIMITATIONS:
+I have little knowledge of GIT/GITHUB. I have not worked in a team environment before and do not know how to solve conflicts or related issues when working in a team environment. Happy to learn once I start working on a project with fellow Data Scientists. 
