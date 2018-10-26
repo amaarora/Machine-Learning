@@ -4,17 +4,18 @@ DEEP LEARNING:
 Read “Deep Learning by Ian Goodfellow” - An MIT Pressbook which can be found at http://www.deeplearningbook.org/
 
 BIG DATA: (Google Analytics)
-Data Scientist track at https://cloud.google.com/training/data-ml
+https://www.udemy.com/taming-big-data-with-apache-spark-hands-on/learn/v4/overview (in progress)
+Data Scientist track at https://cloud.google.com/training/data-ml 
 
-Step-1: “Google Cloud Platform Big Data and Machine Learning Fundamentals”
-Step-2: “Machine Learning with Tensorflow on Google Platform Specialisation”
+Step-1: “Google Cloud Platform Big Data and Machine Learning Fundamentals” (completed)
+Step-2: “Machine Learning with Tensorflow on Google Platform Specialisation” (in-progress)
 Step-3: “Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialisation”
 
 MACHINE LEARNING:
-Read “Introduction to Machine Learning with Python” available at https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413
+Read “Introduction to Machine Learning with Python” available at https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413 (in-progress)
 
 PYTHON:
-“Introduction to Computation and Programming using Python” an MIT Pressbook by John V Guttag available at https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-second-edition
+“Introduction to Computation and Programming using Python” an MIT Pressbook by John V Guttag available at https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-second-edition (in-progress)
 
 HERE’s WHAT MY PAST 3 MONTHS LOOK LIKE:
 PAST PROJECTS:
