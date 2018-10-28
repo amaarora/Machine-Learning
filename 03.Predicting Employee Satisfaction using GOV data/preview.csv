@@ -1,0 +1,81 @@
+,question_id,dtypes,unique_values,first_row_value,question_category,description
+0,A1a,float64,7,1.0,overall_job_satisfaction,Please indicate your level of satisfaction with: My job overall
+1,A1b,float64,7,2.0,overall_job_satisfaction,Please indicate your level of satisfaction with: My agency as an employer
+2,A2a,float64,7,1.0,current_job_related,"My job allows me to utilise my skills, knowledge and abilities"
+3,A2b,float64,7,2.0,current_job_related,I am clear what my duties and responsibilities are
+4,A2c,float64,7,1.0,current_job_related,I understand how my work contributes to my agency’s objectives
+5,A2d,float64,7,2.0,current_job_related,"I have the authority (e.g. the necessary delegations, autonomy, level of responsibility) to do my job effectively"
+6,A2e,float64,7,2.0,current_job_related,I am sufficiently challenged by my work
+7,A2f,float64,7,2.0,current_job_related,I am recognised for the contribution I make
+8,A2g,float64,7,2.0,current_job_related,I am satisfied with the opportunities available to me for career progression in my current agency
+9,A2h,float64,7,1.0,current_job_related,I am proud to work in the Western Australian public sector
+10,A3a,float64,7,2.0,agency_related,I feel that my agency on the whole is well managed
+11,A3b,float64,7,2.0,agency_related,Change is managed well in my agency
+12,A3c,float64,7,2.0,agency_related,My agency’s senior leaders provide effective leadership
+13,A3d,float64,7,2.0,agency_related,My agency uses  technological advances to improve service design and delivery to customers/clients
+14,A3e,float64,7,2.0,agency_related,Recruitment and promotion decisions in my agency are fair
+15,A3f,float64,7,3.0,agency_related,My workplace culture supports people to achieve a suitable work/life balance
+16,A3g,float64,7,3.0,agency_related,You are able to access and use flexible work arrangements  to assist in your work/life balance
+17,A3h,float64,7,1.0,agency_related,My agency is committed to health and wellbeing within the workplace
+18,A3i,float64,7,2.0,agency_related,I feel a strong personal attachment to my agency
+19,A3j,float64,7,2.0,agency_related,My agency motivates me to help it achieve its objectives
+20,A3k,float64,7,2.0,agency_related,My agency inspires me to do the best in my job
+21,A3l,float64,7,1.0,agency_related,I am proud to tell others I work for my agency
+22,A3m,float64,7,1.0,agency_related,I would recommend my agency as a great place to work
+23,A4,float64,3,3.0,agency_related,It is likely that you will leave your agency within:
+24,B1a,float64,7,2.0,workplace_communication,"In my work area, communication between senior managers and other employees is effective"
+25,B1b,float64,7,2.0,workplace_communication,My input is adequately sought and considered about decisions that directly affect me
+26,B2a,float64,7,2.0,immediate_supervisor,My immediate supervisor makes use of appropriate communication and interpersonal skills when dealing with me
+27,B2b,float64,7,2.0,immediate_supervisor,My immediate supervisor effectively communicates with me about business risks impacting my work group
+28,B2c,float64,7,2.0,immediate_supervisor,My immediate supervisor is effective in managing people
+29,B2d,float64,7,2.0,immediate_supervisor,My immediate supervisor appropriately deals with employees who perform poorly
+30,B3a,float64,7,1.0,immediate_work_group,The people in my work group use their time and resources efficiently
+31,B3b,float64,7,1.0,immediate_work_group,My work group achieves a high level of productivity
+32,B3c,float64,7,2.0,immediate_work_group,"In the last 12 months, my work group has implemented innovative processes or policies"
+33,B3d,float64,7,1.0,immediate_work_group,The people in my work group are committed to providing excellent customer service and making a positive difference to the community
+34,B4a,float64,7,4.0,performance_development,Training and development opportunities in my work area are available to all employees
+35,B4b,float64,7,3.0,performance_development,I receive appropriate training or have access to information that enables me to meet my recordkeeping responsibilities
+36,B4c,float64,7,1.0,performance_development,I have received performance feedback from my supervisor in the last 12 months that has helped my performance
+37,B4d,float64,7,2.0,performance_development,"In my agency, there is adequate opportunity to develop the required skills for being a leader"
+38,B5a,float64,7,2.0,equity_and_diversity,Your agency is committed to creating a diverse workforce
+39,B5b,float64,7,2.0,equity_and_diversity,Your workplace culture is equally welcoming of people from all diversity groups
+40,B5c,float64,7,1.0,equity_and_diversity,Your immediate supervisor treats employees from all diversity groups with equal respect
+41,B5d,float64,7,1.0,equity_and_diversity,Your co-workers treat employees from all diversity groups with equal respect
+42,B6,float64,3,2.0,misc,Are you aware of the Public Sector Standards in Human Resource Management?
+43,B8,float64,3,1.0,misc,"If you have been employed in your agency for more than 12 months, have you participated in one or more formal, documented performance management meetings with your immediate supervisor in the past 12 months?"
+44,B8ai,float64,1,1.0,misc,"If yes, which of the following topics were discussed within these formal, documented, meetings?: My work performance over the last year"
+45,B9,float64,6,1.0,misc,How often do you meet with your immediate supervisor informally in a setting that allows for discussion about performance and development matters?
+46,C1a,float64,7,1.0,ethical_behaviour,My agency actively encourages ethical behaviour by all of its employees
+47,C1b,float64,7,1.0,ethical_behaviour,Senior managers in my agency lead by example in ethical behaviour
+48,C1c,float64,7,2.0,ethical_behaviour,Conflicts of interest are identified and managed effectively in my workplace
+49,C1d,float64,7,1.0,ethical_behaviour,My immediate supervisor demonstrates honesty and integrity in the workplace
+50,C1e,float64,7,1.0,ethical_behaviour,My co-workers demonstrate honesty and integrity in the workplace
+51,C1f,float64,7,1.0,ethical_behaviour,Confidential information in my workplace is only disclosed to appropriate people
+52,C1g,float64,7,1.0,ethical_behaviour,Purchasing decisions in my  workplace are not influenced by gifts or incentives
+53,C2,float64,2,1.0,misc,Are you familiar with the Public Sector Code of Ethics?
+54,C3,float64,2,1.0,misc,Are you familiar with your agency code of conduct?
+55,C4a,float64,5,1.0,ethical_behaviour_at_workplace,"Have you witnessed any of the following types of unethical behaviour in your workplace in the last 12 months, and if so how often?: Unprofessional conduct (e.g. bullying, inappropriate language)"
+56,C4b,float64,5,1.0,ethical_behaviour_at_workplace,"Have you witnessed any of the following types of unethical behaviour in your workplace in the last 12 months, and if so how often?: Failure to manage conflicts of interest (e.g. conflict between public role and personal interests)"
+57,C4c,float64,5,1.0,ethical_behaviour_at_workplace,"Have you witnessed any of the following types of unethical behaviour in your workplace in the last 12 months, and if so how often?: Inappropriate acceptance or provision of gifts or benefits"
+58,C4d,float64,5,1.0,ethical_behaviour_at_workplace,"Have you witnessed any of the following types of unethical behaviour in your workplace in the last 12 months, and if so how often?: Corrupt behaviour (e.g. employees misusing their position to obtain an inappropriate benefit or cause detriment)"
+59,C4e,float64,5,1.0,ethical_behaviour_at_workplace,"Have you witnessed any of the following types of unethical behaviour in your workplace in the last 12 months, and if so how often?: Improper use of work computers, internet or email (e.g. viewing or sharing inappropriate or illegal online content)"
+60,C4f,float64,5,1.0,ethical_behaviour_at_workplace,"Have you witnessed any of the following types of unethical behaviour in your workplace in the last 12 months, and if so how often?: Discrimination or harassment (e.g. racial discrimination, sexual harassment)"
+61,C4g,float64,5,1.0,ethical_behaviour_at_workplace,"Have you witnessed any of the following types of unethical behaviour in your workplace in the last 12 months, and if so how often?: Illicit drug use and/or alcohol intoxication"
+62,C4h,float64,5,1.0,ethical_behaviour_at_workplace,"Have you witnessed any of the following types of unethical behaviour in your workplace in the last 12 months, and if so how often?: Inappropriate physical behaviour (e.g. assault, indecent behaviour)"
+63,C4i,float64,5,1.0,ethical_behaviour_at_workplace,"Have you witnessed any of the following types of unethical behaviour in your workplace in the last 12 months, and if so how often?: Inappropriate access to or use of confidential information or unauthorised disclosure of information"
+64,C4j,float64,5,1.0,ethical_behaviour_at_workplace,"Have you witnessed any of the following types of unethical behaviour in your workplace in the last 12 months, and if so how often?: Workplace bribes or theft (e.g. computers, cash or workplace equipment)"
+65,C4k,float64,5,1.0,ethical_behaviour_at_workplace,"Have you witnessed any of the following types of unethical behaviour in your workplace in the last 12 months, and if so how often?: Misuse of public resources (e.g. unauthorised use of vehicles, misuse of corporate credit card)"
+66,C4l,float64,5,1.0,ethical_behaviour_at_workplace,"Have you witnessed any of the following types of unethical behaviour in your workplace in the last 12 months, and if so how often?: Fraudulent behaviour or falsification of information or records"
+67,C4m,float64,5,1.0,ethical_behaviour_at_workplace,"Have you witnessed any of the following types of unethical behaviour in your workplace in the last 12 months, and if so how often?: Neglect of duty (e.g. intentionally failing to perform work duties)"
+68,C4n,float64,5,1.0,ethical_behaviour_at_workplace,"Have you witnessed any of the following types of unethical behaviour in your workplace in the last 12 months, and if so how often?: Engaging in criminal behaviour outside work"
+69,C4o,float64,5,1.0,ethical_behaviour_at_workplace,"Have you witnessed any of the following types of unethical behaviour in your workplace in the last 12 months, and if so how often?: Secretly holding another job outside government without agency permission"
+70,C4ii,float64,4,,misc,"If you have witnessed unethical behaviour in your workplace, did you report it?"
+71,C5,float64,2,,misc,Do you know how to report unethical behavior in your workplace?
+72,C6,float64,3,2.0,misc,"During the past 12 months, have you been subjected to repeated bullying in your workplace?"
+73,C7,float64,2,1.0,misc,Do you know how to report bullying in your workplace?
+74,C8,float64,3,3.0,misc,Are you aware of the PID Act and how to make a disclosure?
+75,D1,float64,2,1.0,further_information,What is your gender?
+76,D3,float64,2,2.0,further_information,What is the highest level of formal education you have completed?
+77,D8,float64,5,3.0,further_information,What is your current total annual gross salary (before tax)?
+78,D14,float64,2,2.0,further_information,"Are you employed in one of the top four levels of management in your agency’s organisational hierarchy (e.g. General Manager, Executive Director, Chief Executive Officer)?"
+79,AgencySize,int64,3,3.0,agency_size,Size of agency (headcount)
