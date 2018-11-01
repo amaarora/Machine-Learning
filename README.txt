@@ -1,7 +1,8 @@
 HERE’s WHAT MY NEXT 3 MONTHS LOOK LIKE:
 
 DEEP LEARNING:
-Read “Deep Learning by Ian Goodfellow” - An MIT Pressbook which can be found at http://www.deeplearningbook.org/
+“Practical Deep Learning for Coders” taught by Jeremy Howard
+https://course.fast.ai/
 
 BIG DATA: (Google Analytics)
 https://www.udemy.com/taming-big-data-with-apache-spark-hands-on/learn/v4/overview (in progress)
@@ -12,7 +13,8 @@ Step-2: “Machine Learning with Tensorflow on Google Platform Specialisation”
 Step-3: “Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialisation”
 
 MACHINE LEARNING:
-Read “Introduction to Machine Learning with Python” available at https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413 (in-progress)
+Read “Elements of Statistical Learning” by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie
+https://web.stanford.edu/~hastie/Papers/ESLII.pdf
 
 PYTHON:
 “Introduction to Computation and Programming using Python” an MIT Pressbook by John V Guttag available at https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-second-edition (in-progress)
@@ -21,18 +23,19 @@ HERE’s WHAT MY PAST 3 MONTHS LOOK LIKE:
 PAST PROJECTS:
 - Imbalance Datasets - “Predicting Congenital Disorder” available at https://github.com/arora-aman123/Data_Science_Projects/tree/master/02.Predicting%20Rare%20Desease
 - Multi-Class Classification - “Predicting Employee Satisfaction using Government Data Set” available at https://github.com/arora-aman123/Data_Science_Projects/tree/master/03.Predicting%20Employee%20Satisfaction%20using%20GOV%20data
+- Predicting AIRBNB HousePrice (Regression) 
+https://github.com/arora-aman123/Data_Science_Projects/blob/master/AIRBNB.ipynb
 
-I used to read articles on Dataquest, TowardsDataScience, Kaggle(Tutorial), KDNuggets.. on a daily basis and try to learn new concepts every day. 
+I read articles on Dataquest, TowardsDataScience, Kaggle(Tutorial), KDNuggets.. on a daily basis and try to learn new concepts every day. 
 Now I am taking up Deep Learning, Big Data, Machine Learning and Python courses online after completing “Introduction to Data Science” from General Assembly.  
-
-PRACTICAL PROJECT: (In Progress)
-‘MultiClass Classification’ - Predicting Employee Satisfaction using Government DataSet
 
 PRACTICAL PROJECT: (Coming Soon) 
 https://www.kaggle.com/c/home-credit-default-risk
 
 BOOKS:
 - Introduction to Statistical Learning 
+- ThinkStats
+- Introduction to Machine Learning using Python 
 
 My MEAGRE KNOWLEDGE BASE so far: 
 1. Linear Regression
