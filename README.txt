@@ -1,7 +1,10 @@
+Latest Project that I am currently working on:
+Who’s the greatest? Virat or Sachin? 
+
 HERE’s WHAT MY NEXT 3 MONTHS LOOK LIKE:
 
 DEEP LEARNING:
-“Practical Deep Learning for Coders” taught by Jeremy Howard
+“Practical Deep Learning for Coders” taught by Jeremy Howard (in-progress)
 https://course.fast.ai/
 
 BIG DATA: (Google Analytics)
@@ -12,12 +15,17 @@ Step-1: “Google Cloud Platform Big Data and Machine Learning Fundamentals” (
 Step-2: “Machine Learning with Tensorflow on Google Platform Specialisation” (in-progress)
 Step-3: “Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialisation”
 
-MACHINE LEARNING:
-Read “Elements of Statistical Learning” by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie
+MACHINE LEARNING: (completed)
+Read “Elements of Statistical Learning” by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie  
 https://web.stanford.edu/~hastie/Papers/ESLII.pdf
+
+Machine Learning Course by Jeremy Howard. 
+https://course.fast.ai/ml.html
 
 PYTHON:
 “Introduction to Computation and Programming using Python” an MIT Pressbook by John V Guttag available at https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-second-edition (in-progress)
+
+Cracking the Coding Interview(in progress)
 
 HERE’s WHAT MY PAST 3 MONTHS LOOK LIKE:
 PAST PROJECTS:
