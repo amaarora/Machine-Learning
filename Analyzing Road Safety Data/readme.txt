@@ -1,0 +1,1 @@
+Under this Project, I have picked the UK accidents data set and generated insights from it using Seaborn and Matplotlib. 
